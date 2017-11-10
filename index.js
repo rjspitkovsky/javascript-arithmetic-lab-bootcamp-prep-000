@@ -15,6 +15,5 @@ function divide(a, b) {
 }
 
 function inc(n) {
-var number = `${n}`
-number++
+return n + 1 
 }
